@@ -76,6 +76,11 @@
             this.deviceCount.Font = new System.Drawing.Font("Impact", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.deviceCount.Location = new System.Drawing.Point(273, 57);
             this.deviceCount.Margin = new System.Windows.Forms.Padding(2);
+            this.deviceCount.Maximum = new decimal(new int[] {
+            -1486618625,
+            232830643,
+            0,
+            0});
             this.deviceCount.Name = "deviceCount";
             this.deviceCount.Size = new System.Drawing.Size(99, 34);
             this.deviceCount.TabIndex = 27;
@@ -97,6 +102,11 @@
             this.devicePrice.Font = new System.Drawing.Font("Impact", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.devicePrice.Location = new System.Drawing.Point(392, 57);
             this.devicePrice.Margin = new System.Windows.Forms.Padding(2);
+            this.devicePrice.Maximum = new decimal(new int[] {
+            -1486618625,
+            232830643,
+            0,
+            0});
             this.devicePrice.Name = "devicePrice";
             this.devicePrice.Size = new System.Drawing.Size(98, 34);
             this.devicePrice.TabIndex = 25;
